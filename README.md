@@ -89,20 +89,6 @@ It means the path you provided in `SOURCE_FOLDER` does not exist.
 
 ---
 
-## 📦 Supported File Categories
-
-| Category   | Extensions |
-|------------|------------|
-| Images     | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp` |
-| Videos     | `.mp4`, `.mkv`, `.avi`, `.mov` |
-| Documents  | `.pdf`, `.docx`, `.txt`, `.xls`, `.xlsx` |
-| Music      | `.mp3`, `.wav`, `.aac` |
-| Archives   | `.zip`, `.rar`, `.7z`, `.tar`, `.gz` |
-| Scripts    | `.py`, `.js`, `.sh`, `.bat`, `.ps1` |
-| Others     | Anything not matched above |
-
----
-
 ## ✅ Customization
 
 You can add or modify categories by editing the `FILE_TYPES` dictionary inside the script.
