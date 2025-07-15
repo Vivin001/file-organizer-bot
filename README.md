@@ -109,6 +109,3 @@ You can add or modify categories by editing the `FILE_TYPES` dictionary inside t
 
 ---
 
-## 👨‍💻 Author
-
-Built with ❤️ using Python. Feel free to fork, modify, or contribute!
