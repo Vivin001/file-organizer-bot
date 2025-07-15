@@ -14,7 +14,7 @@ A simple Python script to automatically organize files in a folder by type (Imag
 
 ## 🚀 How to Use
 
-### 1. 🔧 Edit the Folder Path
+### 🔧 Edit the Folder Path
 
 Open `file_organizer.py` and locate this line:
 
